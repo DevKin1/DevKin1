@@ -1,21 +1,7 @@
 ## Hi there 👋
 
-Adebayo Akinade - A software developer building production-grade Web applications
+Adebayo Akinade - A software developer, I build production-grade web applications that deliver real business impact.
+Driven by curiosity and a passion for problem-solving, I’m constantly exploring new technologies and pushing my limits to create efficient, scalable, and user-focused solutions.
 
-interface Developer {
-name: string;
-age: number;
-experience: string;
-focus: string[];
-location: string;
-}
-
-const me: Developer = {
-name: “Adebayo Akinade”,
-focus: [“Web Development”],
-location: “Nigeria”,
-};
-
-
-TECH STACK
+TECH STACK:
 HTML, CSS, JAVASCRIPT, REACTJS
