@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**DevKin1/DevKin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adebayo Akinade - A software developer building production-grade Web applications
 
-Here are some ideas to get you started:
+interface Developer {
+name: string;
+age: number;
+experience: string;
+focus: string[];
+location: string;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const me: Developer = {
+name: “Adebayo Akinade”,
+focus: [“Web Development”],
+location: “Nigeria”,
+};
+
+
+TECH STACK
+HTML, CSS, JAVASCRIPT, REACTJS
